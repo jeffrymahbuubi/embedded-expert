@@ -1,3 +1,6 @@
 *.zip
 *.dfu
 *.exe
+*.txt
+thonny-4.1.6-windows-portable
+*.hex
